@@ -2,8 +2,9 @@
 - I’m interested in Data science
 - I’m currently working as Machine Learning Engineer
 - I’m looking to collaborate on projects
-- How to reach me - email- rohanjsr098765@gmail.com  
--                         linkedin - https://www.linkedin.com/in/b-rohan-rao-463a7926b/
+- How to reach me -
+-    email- rohanjsr098765@gmail.com  
+-    linkedin - https://www.linkedin.com/in/b-rohan-rao-463a7926b/
 
 
 <!---
