@@ -3,7 +3,7 @@
 - I’m currently working as Machine Learning Engineer
 - I’m looking to collaborate on projects  
 
-email- brohanrao8.com  
+email- brohanrao8@gmail.com  
 linkedin - https://www.linkedin.com/in/b-rohan-rao-463a7926b/
 
 
