@@ -32,8 +32,7 @@ If you’ve got an idea, let’s bring it to life!
 ---
 
 ### 📫 Connect With Me  
-💼 [LinkedIn](www.linkedin.com/in/b-rohan-rao-463a7926b/)  
-🐙 [GitHub](github.com/B-Rohan-Rao)  
+💼 [LinkedIn](www.linkedin.com/in/b-rohan-rao-463a7926b/)   
 📧 **Email:** [brohanrao8@gmail.com](mailto:brohanrao8@gmail.com)
 
 ---
